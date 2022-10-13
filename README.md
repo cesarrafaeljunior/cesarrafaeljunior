@@ -2,8 +2,8 @@
 
 <h2 align="left">Sobre mim:</h2>
 
-<p align="left">Sou estudante de FullStack na <a href= https://kenzie.com.br/><i>Kenzie Academy</i></a>, inicei meus estudos na turma 13 no dia 21 de maio de 2022, com a finalização do módulo 1 fui chamado para fazer parte do time como Peer Coach do primeiro módulo da turma 14.</p>
-<p align="center">Procuro sempre melhorar minhas habilidades como desenvolvedor, buscando conseguir um bom emprego na área.
+<p align="left">Sou estudante de FullStack na <a href= https://kenzie.com.br/><i>Kenzie Academy</i></a>, inicei meus estudos na turma 13 no dia 21 de maio de 2022, com a finalização do módulo 1 fui chamado para fazer parte do time como Monitor do primeiro módulo da turma 14.</p>
+<p align="center">Procuro sempre melhorar minhas habilidades como desenvolvedor, sempre disposto a aprender coisas novas e conseguir resolver desafios mais complexos!.
 
   
 <h2 align="center">Conhecimento nas tecnologias</h2>  
