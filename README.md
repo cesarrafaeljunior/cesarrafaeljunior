@@ -25,7 +25,7 @@
 <li align="center">React-Native</li>
 
 <h2 align="center">Algumas dastecnologias que estou me aprofundando atualmente (Back-End):</h2>
-<li align="center">Me aprofundando atualmente</li>
+<li align="center">Em estudos atualmente</li>
 
   
 <h2 align="center">Conhecimento nas tecnologias</h2>  
