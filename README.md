@@ -4,12 +4,14 @@
 
 <p align="left">Sou estudante de desenvolvimento Web desde 2018, apaixonado pela tecnologia decidi me aprofundar no assunto participando de cursos que trabalhavam com metodologias ageis, gosto muito de estudar e resolver desafios e minha meta de longo prazo é me tornar um programador de sucesso, que possa fazer parte de uma equipe top! e conseguir ajudar novos desenvolvedores a não desistirem dessa área que só tem a agregar em nossas vidas.</p>
 <h2 align="center">Durante meus estudos, tive contato com as tecnologias:</h2>
+<ul>
 <li align="center">HTML</li>
 <li align="center">CSS</li>
 <li align="center">Git/Github</li>
 <li align="center">JavaScript/Poo</li>
 <li align="center">ReactJS</li>
 <li align="center">TypeScript</li>
+</ul>
 
 <h2 align="center">Competências adicionais:</h2>
 <li align="center">Styled-Components</li>
