@@ -9,6 +9,7 @@
 <li align="center">Git/Github</li>
 <li align="center">JavaScript/Poo</li>
 <li align="center">ReactJS</li>
+<li align="center">TypeScript</li>
 
 <h2 align="center">Competências adicionais:</h2>
 <li align="center">Styled-Components</li>
@@ -38,6 +39,7 @@
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/typescript-original.svg">
 </div></br>  
   
 <div align="center">
