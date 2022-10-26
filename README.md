@@ -18,7 +18,7 @@
 <li align="center">Axios</li>
 <li align="center">Recoil</li>
 
-<p align="center">Além das tecnologias já dominadas, estou sempre disposto a aprender novas tecnologias e me manter atualizado!:</p>
+<p align="center">Além das tecnologias já dominadas, estou sempre disposto a aprender novas tecnologias e me manter atualizado!</p>
 
 <h2 align="center">Algumas dastecnologias que estou me aprofundando atualmente (Front-End):</h2>
 <li align="center">Redux / Redux-Saga / Redux-Toolkit</li>
