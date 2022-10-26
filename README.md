@@ -3,8 +3,10 @@
 <h2 align="left">Sobre mim:</h2>
 
 <p align="left">Sou estudante de desenvolvimento Web desde 2018, apaixonado pela tecnologia decidi me aprofundar no assunto participando de cursos que trabalhavam com metodologias ageis, gosto muito de estudar e resolver desafios e minha meta de longo prazo é me tornar um programador de sucesso, que possa fazer parte de uma equipe top! e conseguir ajudar novos desenvolvedores a não desistirem dessa área que só tem a agregar em nossas vidas.</p>
+
 <h2 align="center">Durante meus estudos, tive contato com as tecnologias:</h2>
-<ul>
+
+<ul align="center">
 <li align="center">HTML</li>
 <li align="center">CSS</li>
 <li align="center">Git/Github</li>
@@ -14,11 +16,14 @@
 </ul>
 
 <h2 align="center">Competências adicionais:</h2>
+
+<ul align="center">
 <li align="center">Styled-Components</li>
 <li align="center">React-Hook-Forms</li>
 <li align="center">React-Router-Dom</li>
 <li align="center">Axios</li>
 <li align="center">Recoil</li>
+</ul>
 
 <p align="center">Além das tecnologias já dominadas, estou sempre disposto a aprender novas tecnologias e me manter atualizado!</p>
 
@@ -36,7 +41,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+<!--   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> -->
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
