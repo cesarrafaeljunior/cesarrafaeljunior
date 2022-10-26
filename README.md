@@ -31,6 +31,7 @@
 
 <h2 align="center">Algumas dastecnologias que estou me aprofundando atualmente (Front-End):</h2>
 <li align="center">Redux / Redux-Saga / Redux-Toolkit</li>
+<li align="center">Zustand</li>
 <li align="center">React-Native</li>
 
 <h2 align="center">Algumas dastecnologias que estou me aprofundando atualmente (Back-End):</h2>
