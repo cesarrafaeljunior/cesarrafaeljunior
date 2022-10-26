@@ -2,8 +2,9 @@
 
 <h2 align="left">Sobre mim:</h2>
 
-<p align="left">Sou estudante de FullStack na <a href= https://kenzie.com.br/><i>Kenzie Academy</i></a>, inicei meus estudos na turma 13 no dia 21 de maio de 2022, com a finalização do módulo 1 fui chamado para fazer parte do time como Monitor do primeiro módulo da turma 14.</p>
-<p align="center">Procuro sempre melhorar minhas habilidades como desenvolvedor, sempre disposto a aprender coisas novas e conseguir resolver desafios mais complexos!.
+<p align="left">Sou estudante de desenvolvimento Web desde 2018, apaixonado pela tecnologia decidi me aprofundar no assunto participando de cursos que trabalhavam com metodologias ageis, gosto muito de estudar e resolver desafios e minha meta de longo prazo é me tornar um programador de sucesso, que possa fazer parte de uma equipe top! e conseguir ajudar novos desenvolvedores a não desistirem dessa área que só tem a agregar em nossas vidas.</p>
+<h2 align="center">Durante meus estudos, tive contato com as tecnologias:</h2>
+<li>HTML</li>
 
   
 <h2 align="center">Conhecimento nas tecnologias</h2>  
