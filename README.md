@@ -9,12 +9,22 @@
 <li align="center">Git/Github</li>
 <li align="center">JavaScript/Poo</li>
 <li align="center">ReactJS</li>
+
 <h2 align="center">Competências adicionais:</h2>
 <li align="center">Styled-Components</li>
 <li align="center">React-Hook-Forms</li>
 <li align="center">React-Router-Dom</li>
 <li align="center">Axios</li>
 <li align="center">Recoil</li>
+
+<p align="center">Além das tecnologias já dominadas, estou sempre disposto a aprender novas tecnologias e me manter atualizado!:</p>
+
+<h2 align="center">Algumas dastecnologias que estou me aprofundando atualmente (Front-End):</h2>
+<li align="center">Redux / Redux-Saga / Redux-Toolkit</li>
+<li align="center">React-Native</li>
+
+<h2 align="center">Algumas dastecnologias que estou me aprofundando atualmente (Back-End):</h2>
+<li align="center">Me aprofundando atualmente</li>
 
   
 <h2 align="center">Conhecimento nas tecnologias</h2>  
