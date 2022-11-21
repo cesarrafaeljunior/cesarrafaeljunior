@@ -1,4 +1,4 @@
-<h1 align="left">Vamos fazer Networking? => Linkedin 😃️<a href="https://www.linkedin.com/in/cesarrafaeldevstudent/"><i>César Rafael</i></a> 😃️</h1>
+<h1 align="left">Conecte-se comigo no Linkedin => Linkedin 😃️<a href="https://www.linkedin.com/in/cesarrafaeldevstudent/"><i>César Rafael</i></a> 😃️</h1>
 
 <h2 align="center">Conheca meu trabalho => Portfólio : https://portfolio-eight-iota-48.vercel.app/
 
@@ -21,7 +21,7 @@
 
 <ul align="center">
 <li align="center">Styled-Components</li>
-<li align="center">React-Hook-Forms</li>
+<li align="center">React-Hook-Form</li>
 <li align="center">React-Router-Dom</li>
 <li align="center">Axios</li>
 <li align="center">Recoil</li>
@@ -38,7 +38,6 @@
 <h2 align="center">Algumas dastecnologias que estou me aprofundando atualmente (Back-End):</h2>
 <li align="center">Node Express</li>
 <li align="center">PostgreSQL</li>
-<li align="center">Docker</li>
 
   
 <h2 align="center">Conhecimento nas tecnologias</h2>  
