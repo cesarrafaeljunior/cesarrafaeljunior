@@ -30,12 +30,12 @@
 
 <p align="center">Além das tecnologias já dominadas, estou sempre disposto a aprender novas tecnologias e me manter atualizado!</p>
 
-<h2 align="center">Algumas dastecnologias que estou me aprofundando atualmente (Front-End):</h2>
+<h2 align="center">Algumas das tecnologias que estou me aprofundando atualmente (Front-End):</h2>
 <li align="center">Redux / Redux-Saga / Redux-Toolkit</li>
 <li align="center">Zustand</li>
 <li align="center">React-Native</li>
 
-<h2 align="center">Algumas dastecnologias que estou me aprofundando atualmente (Back-End):</h2>
+<h2 align="center">Algumas das tecnologias que estou me aprofundando atualmente (Back-End):</h2>
 <li align="center">Node Express</li>
 <li align="center">PostgreSQL</li>
 
