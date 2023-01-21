@@ -2,7 +2,7 @@
 
 <h2 align="left">Sobre mim:</h2>
 
-<p align="left">Desenvolvedor Full Stack, apaixonado pela tecnologia, sempre procurando melhorar minhas habilidades técnicas e interpessoais, gosto de conversar sobre tecnologia, e de conhecer pessoas novas, sempre busco desafios em meu dia dia relacionados a programação para resolver, e principalmente, gosto muito de estudar. Possuo conhecimento nas principais tecnologias de desenvolvimento we:.</p>
+<p align="left">Desenvolvedor Full Stack, apaixonado pela tecnologia, sempre procurando melhorar minhas habilidades técnicas e interpessoais, gosto de conversar sobre tecnologia e conhecer pessoas novas, sempre busco desafios em meu dia dia relacionados a programação para resolver, e principalmente, gosto muito de estudar. Possuo conhecimento nas principais tecnologias de desenvolvimento web:.</p>
 
 <ul align="center">
 <li align="center">HTML</li>
@@ -32,8 +32,6 @@
 <li align="center">ORM</li>
 </ul>
   
-<h2 align="center">Conhecimento nas tecnologias</h2>  
-  
 <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -46,17 +44,8 @@
   <img align="center" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="postgre" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
-
 </div></br>  
   
-<div align="center">
-  <a href="https://github.com/cesarrafaeljunior">
-    <img height="140em"src="https://github-readme-stats.vercel.app/api?username=cesarrafaeljunior&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=false&show_owner=true"/>
-    <img height="140em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarrafaeljunior&theme=algolia&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
 <div align="center">
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
