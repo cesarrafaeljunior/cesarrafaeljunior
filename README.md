@@ -1,4 +1,4 @@
-<h1 align="left">Conecte-se comigo no Linkedin => Linkedin 😃️<a href="https://www.linkedin.com/in/cesarrafaeldevstudent/"><i>César Rafael</i></a> 😃️</h1>
+<h2 align="left">Conecte-se comigo no Linkedin => 😃️<a href="https://www.linkedin.com/in/cesarrafaeldevstudent/"><i>César Rafael</i></a> 😃️</h2>
 
 <h2 align="left">Sobre mim:</h2>
 
