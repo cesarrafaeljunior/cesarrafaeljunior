@@ -1,57 +1,53 @@
 <h1 align="left">Conecte-se comigo no Linkedin => Linkedin 😃️<a href="https://www.linkedin.com/in/cesarrafaeldevstudent/"><i>César Rafael</i></a> 😃️</h1>
 
-<h2 align="center">Conheca meu trabalho => Portfólio : https://portfolio-eight-iota-48.vercel.app/
-
 <h2 align="left">Sobre mim:</h2>
 
-<p align="left">Sou estudante de desenvolvimento Web desde 2018, apaixonado pela tecnologia decidi me aprofundar no assunto participando de cursos que trabalhavam com metodologias ageis, gosto muito de estudar e resolver desafios e minha meta de longo prazo é me tornar um programador de sucesso, que possa fazer parte de uma equipe top! e conseguir ajudar novos desenvolvedores a não desistirem dessa área que só tem a agregar em nossas vidas.</p>
-
-<h2 align="center">Durante meus estudos, tive contato com as tecnologias:</h2>
+<p align="left">Desenvolvedor Full Stack, apaixonado pela tecnologia, sempre procurando melhorar minhas habilidades técnicas e interpessoais, gosto de conversar sobre tecnologia, e de conhecer pessoas novas, sempre busco desafios em meu dia dia relacionados a programação para resolver, e principalmente, gosto muito de estudar. Possuo conhecimento nas principais tecnologias de desenvolvimento we:.</p>
 
 <ul align="center">
 <li align="center">HTML</li>
 <li align="center">CSS</li>
 <li align="center">Git/Github</li>
 <li align="center">JavaScript/Poo</li>
-<li align="center">ReactJS</li>
+<li align="center">React.js</li>
 <li align="center">TypeScript</li>
+<li align="center">Node.js</li>
+<li align="center">Express.js</li>
+<li align="center">PostgreSQL.js</li>
+<li align="center">TypeORM.js</li>
 </ul>
 
 <h2 align="center">Competências adicionais:</h2>
 
 <ul align="center">
-<li align="center">Styled-Components</li>
-<li align="center">React-Hook-Form</li>
-<li align="center">React-Router-Dom</li>
-<li align="center">Axios</li>
-<li align="center">Recoil</li>
-  <li align="center">Redux</li>
+<li align="center">Web Semântica</li>
+<li align="center">Metodologia Ágeis</li>
+<li align="center">Scrum</li>
+<li align="center">Kanban</li>
+<li align="center">TDD</li>
+<li align="center">State Management</li>
+<li align="center">Componentização</li>
+<li align="center">consumo de APIs</li>
+<li align="center">Bancos de dados SQL e NOSQL</li>
+<li align="center">ORM</li>
 </ul>
-
-<p align="center">Além das tecnologias já dominadas, estou sempre disposto a aprender novas tecnologias e me manter atualizado!</p>
-
-<h2 align="center">Algumas das tecnologias que estou me aprofundando atualmente (Front-End):</h2>
-<li align="center">Redux / Redux-Saga / Redux-Toolkit</li>
-<li align="center">Zustand</li>
-<li align="center">React-Native</li>
-
-<h2 align="center">Algumas das tecnologias que estou me aprofundando atualmente (Back-End):</h2>
-<li align="center">Node Express</li>
-<li align="center">PostgreSQL</li>
-
   
 <h2 align="center">Conhecimento nas tecnologias</h2>  
   
 <div align="center"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<!--   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> -->
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"> 
+  <img align="center" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img align="center" alt="postgre" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+
+
 </div></br>  
   
 <div align="center">
