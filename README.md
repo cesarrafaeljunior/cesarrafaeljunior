@@ -2,7 +2,7 @@
 
 <h2 align="left">Sobre mim:</h2>
 
-<p align="center">
+<p align="left">
           Olá, meu nome é César e sou desenvolvedor Full-Stack. Sou apaixonado
           por tecnologia e pelos desafios que esta área proporciona. Durante
           minha trajetória na área de tecnologia, tive a oportunidade de
