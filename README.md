@@ -2,10 +2,36 @@
 
 <h2 align="left">Sobre mim:</h2>
 
-<p align="left"Olá, meu nome é César e sou desenvolvedor Full-Stack. Sou apaixonado por tecnologia e pelos desafios que esta área proporciona. Durante minha trajetória na área de tecnologia, tive a oportunidade de participar de vários projetos, além de contribuir com meus conhecimentos para startups pequenas realizando trabalhos voluntários, alguns como desenvolvedor e outros como monitor.
-Minha paixão pela tecnologia e curiosidade me fizeram mergulhar nos "dois mundos" da programação, Front-End e Back-End, o que me permitiu adquirir experiência para ser considerado um programador Full-Stack. Trabalho com tecnologias como React para executar um código mais limpo e bem testado através de seu sistema de Componentização, React-Native para construir aplicativos componentizados e performáticos, Node para construir APIs gerenciais para estabelecimentos, além da implementação de testes de integração e unitários. Utilizo também Python para construir APIs rapidamente, performáticas e escaláveis combinado com o Django, e bancos de dados SQL associados com Node e Python para persistir os dados.
-Gosto de me relacionar com pessoas que compartilham da mesma paixão, fazer novas amizades e sinto-me melhor quando estou trabalhando em equipe. Procuro sempre manter uma comunicação clara e efetiva, para que eu e minha equipe possamos resolver todos os desafios de maneira rápida e eficiente.
-Busco consolidar minha carreira como desenvolvedor e espero poder contribuir com muitas pessoas que, assim como eu, gostam da área e buscam aprender programação para alcançarem seus objetivos..</p>
+<p align="center">
+          Olá, meu nome é César e sou desenvolvedor Full-Stack. Sou apaixonado
+          por tecnologia e pelos desafios que esta área proporciona. Durante
+          minha trajetória na área de tecnologia, tive a oportunidade de
+          participar de vários projetos, além de contribuir com meus
+          conhecimentos para startups pequenas realizando trabalhos voluntários,
+          alguns como desenvolvedor e outros como monitor.
+          <br />
+          Minha paixão pela tecnologia e curiosidade me fizeram mergulhar nos
+          "dois mundos" da programação, Front-End e Back-End, o que me permitiu
+          adquirir experiência para ser considerado um programador Full-Stack.
+          Trabalho com tecnologias como React para executar um código mais limpo
+          e bem testado através de seu sistema de Componentização, React-Native
+          para construir aplicativos componentizados e performáticos, Node para
+          construir APIs gerenciais para estabelecimentos, além da implementação
+          de testes de integração e unitários. Utilizo também Python para
+          construir APIs rapidamente, performáticas e escaláveis combinado com o
+          Django, e bancos de dados SQL associados com Node e Python para
+          persistir os dados.
+          <br />
+          Gosto de me relacionar com pessoas que compartilham da mesma paixão,
+          fazer novas amizades e sinto-me melhor quando estou trabalhando em
+          equipe. Procuro sempre manter uma comunicação clara e efetiva, para
+          que eu e minha equipe possamos resolver todos os desafios de maneira
+          rápida e eficiente.
+          <br />
+          Busco consolidar minha carreira como desenvolvedor e espero poder
+          contribuir com muitas pessoas que, assim como eu, gostam da área e
+          buscam aprender programação para alcançarem seus objetivos.
+</p>
 
 <ul align="center">
 <li align="center">HTML</li>
