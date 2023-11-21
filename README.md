@@ -1,5 +1,3 @@
-<h2 align="left">Linkedin => <a href="[https://www.linkedin.com/in/cesarrafaeldevstudent/](https://www.linkedin.com/in/cesarrafaeljunior/)](https://www.linkedin.com/in/cesarrafaeljunior/)">César Rafael</a></h2>
-
 <h2 align="left">Sobre mim:</h2>
 
 <p align="left">
