@@ -1,63 +1,40 @@
 <h2 align="left">Sobre mim:</h2>
 
 <p align="left">
-          Olá, meu nome é César e sou desenvolvedor Full-Stack. Sou apaixonado
-          por tecnologia e pelos desafios que esta área proporciona. Durante
-          minha trajetória na área de tecnologia, tive a oportunidade de
-          participar de vários projetos, além de contribuir com meus
-          conhecimentos para startups pequenas realizando trabalhos voluntários,
-          alguns como desenvolvedor e outros como monitor.
-          <br />
-          Minha paixão pela tecnologia e curiosidade me fizeram mergulhar nos
-          "dois mundos" da programação, Front-End e Back-End, o que me permitiu
-          adquirir experiência para ser considerado um programador Full-Stack.
-          Trabalho com tecnologias como React para executar um código mais limpo
-          e bem testado através de seu sistema de Componentização, React-Native
-          para construir aplicativos componentizados e performáticos, Node para
-          construir APIs gerenciais para estabelecimentos, além da implementação
-          de testes de integração e unitários. Utilizo também Python para
-          construir APIs rapidamente, performáticas e escaláveis combinado com o
-          Django, e bancos de dados SQL associados com Node e Python para
-          persistir os dados.
-          <br />
-          Gosto de me relacionar com pessoas que compartilham da mesma paixão,
-          fazer novas amizades e sinto-me melhor quando estou trabalhando em
-          equipe. Procuro sempre manter uma comunicação clara e efetiva, para
-          que eu e minha equipe possamos resolver todos os desafios de maneira
-          rápida e eficiente.
-          <br />
-          Busco consolidar minha carreira como desenvolvedor e espero poder
-          contribuir com muitas pessoas que, assim como eu, gostam da área e
-          buscam aprender programação para alcançarem seus objetivos.
+🚀 Apaixonado por Tecnologia e Desenvolvimento!
+
+Decidi mergulhar no vasto universo da programação aos 17 anos, e desde então, cada linha de código é uma jornada emocionante para mim. Resolver desafios e auxiliar pessoas com meu conhecimento tornou-se a minha missão diária.
+
+👨‍💻 Experiência Multifacetada:
+
+Ao longo da minha jornada, aprofundei-me em diversas áreas da tecnologia. Desde o Back End até o Front End, manipulação de bancos de dados, implementação de micro serviços, e a exploração de frameworks como Spring Boot, React, Angular e Django. Minha experiência abrange também tecnologias focadas em DevOps, incluindo Docker e Docker Compose. Além disso, tive a oportunidade de dar os primeiros passos na nuvem, explorando serviços AWS.
+
+🎓 Aprendizado Contínuo:
+
+Estou sempre em busca de desafios que me permitam expandir meu conhecimento. O aprendizado contínuo é uma paixão que me impulsiona, e a resolução de problemas complexos é o que me motiva a evoluir constantemente.
+
+🛠️ Habilidades-chave:
+
+Desenvolvimento Back End e Front End
+Modelagem de Banco de Dados
+Implementação de Microserviços
+Frameworks: Spring Boot, React, Angular, Django
+Tecnologias DevOps: Docker, Docker Compose
+Nuvem: AWS
 </p>
 
 <ul align="center">
-<li align="center">HTML</li>
-<li align="center">CSS</li>
 <li align="center">Git/Github</li>
-<li align="center">JavaScript/Poo</li>
+<li align="center">JavaScript</li>
 <li align="center">React.js</li>
-<li align="center">TypeScript</li>
 <li align="center">Node.js</li>
-<li align="center">Express.js</li>
 <li align="center">PostgreSQL.js</li>
-<li align="center">TypeORM.js</li>
+<li align="center">Java</li>
+<li align="center">Spring Boot</li>
+<li align="center">Angular</li>
 </ul>
 
 <h2 align="center">Competências adicionais:</h2>
-
-<ul align="center">
-<li align="center">Web Semântica</li>
-<li align="center">Metodologia Ágeis</li>
-<li align="center">Scrum</li>
-<li align="center">Kanban</li>
-<li align="center">TDD</li>
-<li align="center">State Management</li>
-<li align="center">Componentização</li>
-<li align="center">consumo de APIs</li>
-<li align="center">Bancos de dados SQL e NOSQL</li>
-<li align="center">ORM</li>
-</ul>
   
 <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -71,7 +48,8 @@
   <img align="center" alt="express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="postgre" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+           <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java">
 </div></br>  
   
 <div align="center">
